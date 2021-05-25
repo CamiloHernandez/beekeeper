@@ -7,7 +7,7 @@ require (
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/gdamore/tcell/v2 v2.0.1-0.20201017141208-acf90d56d591
 	github.com/go-ole/go-ole v1.2.4 // indirect
-	github.com/google/go-cmp v0.5.5
+	github.com/google/go-cmp v0.5.6
 	github.com/magiconair/properties v1.8.4 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/mapstructure v1.4.0 // indirect
